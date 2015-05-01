@@ -1,4 +1,5 @@
-# A coding test given by Shapeways. Consists of a data analysis program in Java and some HTML/CSS/JavaScript coding.
+# A coding test given by Shapeways. 
+Consists of a data analysis program in Java and some HTML/CSS/JavaScript coding.
 
 ## Coding Challenge
 
@@ -14,4 +15,4 @@ Your solution cannot store a list of all possible pairs of bands (don't use a 'b
 
 Your solution should preferably be implemented Java or PHP. Other languages may be considered on a case-by-case basis.
 
-## Usage: java ArtistPairFinder <filename>
+## Usage: java ArtistPairFinder filename
