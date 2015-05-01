@@ -1,0 +1,202 @@
+The Killers,Muse
+Muse,System of a Down
+Franz Ferdinand,Muse
+The Strokes,Radiohead
+The Beatles,Franz Ferdinand
+Rihanna,Lady Gaga
+The Beatles,Pink Floyd
+Muse,Nirvana
+The Beatles,Muse
+Arctic Monkeys,Coldplay
+The Killers,Radiohead
+Paramore,Lady Gaga
+Muse,Kasabian
+Arctic Monkeys,Placebo
+Iron Maiden,Metallica
+Placebo,Nirvana
+Red Hot Chili Peppers,Muse
+Lady Gaga,Muse
+Muse,Kings of Leon
+Nirvana,The Beatles
+Muse,Snow Patrol
+Muse,Green Day
+Metallica,System of a Down
+The Killers,Arctic Monkeys
+Pink Floyd,The Beatles
+Nirvana,Coldplay
+The Beatles,Death Cab for Cutie
+Nirvana,Oasis
+Radiohead,Foo Fighters
+Arctic Monkeys,The Strokes
+The Smiths,The Cure
+The Beatles,MGMT
+Led Zeppelin,Pink Floyd
+Oasis,Arctic Monkeys
+The Cure,The Smiths
+Coldplay,Nirvana
+30 Seconds to Mars,Muse
+Franz Ferdinand,Radiohead
+Oasis,Nirvana
+The Smiths,Radiohead
+Radiohead,The Killers
+The Kooks,Muse
+Linkin Park,Muse
+Foo Fighters,Red Hot Chili Peppers
+Muse,Queen
+Coldplay,Oasis
+Death Cab for Cutie,Radiohead
+Foo Fighters,Radiohead
+Arctic Monkeys,Nirvana
+Oasis,Radiohead
+Kings of Leon,Coldplay
+Radiohead,Coldplay
+Led Zeppelin,The Beatles
+Nirvana,Foo Fighters
+Nirvana,Placebo
+Nirvana,Red Hot Chili Peppers
+Coldplay,Arctic Monkeys
+Radiohead,Pearl Jam
+Radiohead,Franz Ferdinand
+Red Hot Chili Peppers,The Beatles
+David Bowie,Radiohead
+Coldplay,Radiohead
+Paramore,Muse
+Arctic Monkeys,Kings of Leon
+The Killers,Placebo
+Coldplay,Kings of Leon
+Placebo,Muse
+The Beatles,The Rolling Stones
+Foo Fighters,Muse
+Oasis,Coldplay
+Coldplay,Muse
+Muse,Lady Gaga
+Muse,Death Cab for Cutie
+The Killers,The Strokes
+Muse,Radiohead
+Red Hot Chili Peppers,Nirvana
+The Strokes,The Killers
+The Beatles,Queen
+Placebo,Radiohead
+Queen,Muse
+Kings of Leon,Radiohead
+Muse,Pink Floyd
+Franz Ferdinand,The Beatles
+The Rolling Stones,The Beatles
+Queen,The Beatles
+Britney Spears,Lady Gaga
+Lady Gaga,Paramore
+The Beatles,Oasis
+Lily Allen,Lady Gaga
+Muse,Oasis
+Radiohead,Nirvana
+The Beatles,The Strokes
+Red Hot Chili Peppers,The Killers
+Muse,The Beatles
+Radiohead,The Cure
+Muse,Arctic Monkeys
+Muse,Coldplay
+The Beatles,David Bowie
+Coldplay,The Beatles
+Radiohead,Kings of Leon
+Radiohead,Placebo
+Muse,Metallica
+MGMT,The Beatles
+Muse,Paramore
+Arctic Monkeys,The Kooks
+Arctic Monkeys,MGMT
+Snow Patrol,Muse
+The Killers,Kings of Leon
+The Cure,Radiohead
+The Strokes,Muse
+The Beatles,Led Zeppelin
+Radiohead,Muse
+Radiohead,David Bowie
+MGMT,Arctic Monkeys
+Nirvana,Arctic Monkeys
+The Strokes,The Beatles
+Lady Gaga,Rihanna
+Foo Fighters,Nirvana
+Radiohead,The Beatles
+Kings of Leon,Arctic Monkeys
+Nirvana,Radiohead
+The Beatles,The Smiths
+Radiohead,Oasis
+Muse,Foo Fighters
+Coldplay,The Killers
+The Beatles,Red Hot Chili Peppers
+Muse,Franz Ferdinand
+Muse,30 Seconds to Mars
+System of a Down,Metallica
+Arctic Monkeys,Franz Ferdinand
+Red Hot Chili Peppers,Foo Fighters
+Muse,The Killers
+Placebo,Arctic Monkeys
+Muse,Linkin Park
+Muse,Placebo
+Muse,MGMT
+Radiohead,Red Hot Chili Peppers
+Coldplay,Placebo
+Lady Gaga,Britney Spears
+Oasis,The Killers
+Lady Gaga,Ke$ha
+Pearl Jam,Nirvana
+Coldplay,Red Hot Chili Peppers
+Muse,The Kooks
+Pearl Jam,Radiohead
+The Strokes,Arctic Monkeys
+The Killers,Oasis
+Pink Floyd,Led Zeppelin
+The Cure,Muse
+Radiohead,Death Cab for Cutie
+The Beatles,Lady Gaga
+Placebo,The Killers
+Arctic Monkeys,Muse
+Nirvana,Pearl Jam
+Muse,The Strokes
+The Beatles,Nirvana
+Radiohead,Pink Floyd
+Lady Gaga,The Beatles
+Oasis,The Beatles
+Muse,Incubus
+David Bowie,The Beatles
+Metallica,Iron Maiden
+MGMT,Muse
+System of a Down,Muse
+Oasis,Muse
+The Kooks,Arctic Monkeys
+The Beatles,The Killers
+The Killers,Red Hot Chili Peppers
+Radiohead,The Strokes
+The Beatles,Coldplay
+Metallica,Muse
+The Beatles,Arctic Monkeys
+Kings of Leon,Muse
+Death Cab for Cutie,Muse
+Lady Gaga,Coldplay
+Green Day,Muse
+Red Hot Chili Peppers,Coldplay
+The Killers,Coldplay
+Coldplay,Lady Gaga
+Arctic Monkeys,The Beatles
+Kasabian,Muse
+Incubus,Muse
+Red Hot Chili Peppers,Radiohead
+Radiohead,Arctic Monkeys
+Placebo,Coldplay
+Death Cab for Cutie,The Beatles
+The Smiths,The Beatles
+Franz Ferdinand,Arctic Monkeys
+Pink Floyd,Muse
+Pink Floyd,Radiohead
+Muse,The Cure
+Nirvana,Muse
+Radiohead,The Smiths
+Arctic Monkeys,Radiohead
+Arctic Monkeys,The Killers
+Ke$ha,Lady Gaga
+Muse,Red Hot Chili Peppers
+Arctic Monkeys,Oasis
+Kings of Leon,The Killers
+Lady Gaga,Lily Allen
+The Beatles,Radiohead
+The Killers,The Beatles
